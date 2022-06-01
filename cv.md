@@ -1,7 +1,7 @@
-#**Yaraslau Haurylavets**
+#Yaraslau Haurylavets
 ************************************
 ***************************************
-###**Future JS warrior**
+###Future JS warrior
 ************************************
 From: Belarus, Minsk
 Contacts:
@@ -20,7 +20,7 @@ Study such technologies:
 * JavaScript
 * Git
 *****************************************
-As an example of my coding practice, this is the solution of the task on [https://www.codewars.com/kata/604517d65b464d000d51381f](*Codewars*):
+As an example of my coding practice, this is the solution of the task on [*Codewars*](https://www.codewars.com/kata/604517d65b464d000d51381f):
 ```
 function strangeMath(n, k){
     let arr = Array(n+1).fill(0);
@@ -32,11 +32,11 @@ function strangeMath(n, k){
 *******************************
 Although I have no many projects, I'll fix it soon.
 Now there are two studing projects.  
-+ *link on cv*
-+ [https://yaraslauhaurylavets.github.io/git_sandbox/](*Hello User*)
+- [*This CV*](https://yaraslauhaurylavets.github.io/trial/)
+- [*Hello User*](https://yaraslauhaurylavets.github.io/git_sandbox/)
 **********************************
-Studied Git Basics at *https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb*
-now studuing at *js pre*
+Studied [*Git Basics*](https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb)
+Now studuing at [*JavaScript/Front-end. Stage 0*](https://rs.school/js-stage0/)
 *********************************
 English: listening and reading B1, speaking and writing A2 (haven't practiced for a long time, but I'm working on it)
 
