@@ -41,8 +41,8 @@ Now there are two studing projects.
 - ***[This CV](this.url)***
 - ***[Hello User](https://yaraslauhaurylavets.github.io/git_sandbox/)***
 **********************************
-Studied ***[Git Basics](https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb)***
-Now studuing at ***[JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)***
+Studied at ***[Git Basics](https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb)***                                     
+Currently studying at ***[JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)***                                
 *********************************
 English: listening and reading B1, speaking and writing A2 (haven't practiced for a long time, but I'm working on it)
 
