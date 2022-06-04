@@ -21,7 +21,7 @@ but now I want to get more creative and intellectual job.
 
 ***********************************
 
-##### Study these technologies:
+#### Study these technologies:
 * HTML
 * CSS
 * JavaScript
@@ -41,23 +41,22 @@ function strangeMath(n, k){
 
 *******************************
 
-##### Projects
-Although I have no many projects, I'll fix it soon)                                                                          
-Now there are two studing projects.  
+#### Projects
+Although I have no many projects, I'll fix it soon) Now there are two studing projects.                                                           
 - ***[This CV](https://yaraslauhaurylavets.github.io/trial/cv/)***
 - ***[Hello User](https://yaraslauhaurylavets.github.io/git_sandbox/)***
 
 **********************************
 
-#####Courses
+#### Courses                                                                 
 Studied at ***[Git Basics](https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb)***                                     
 Currently studying at ***[JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)***       
                          
 *********************************
 
-#####Languages
-**English**: listening and reading B1, speaking and writing A2 (haven't practiced for a long time, but I'm working on it)
-**Russian**: native
+#### Languages                                                                               
+**English**: listening and reading B1, speaking and writing A2 (haven't practiced for a long time, but I'm working on it)                     
+**Russian**: native                                                          
 
 
 
