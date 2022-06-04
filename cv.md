@@ -1,7 +1,7 @@
 
 # Yaraslau Haurylavets
 
-[No face found](/TrollFace.jpg)
+![No face found](/TrollFace.jpg)
 
 ### Future JS warrior
 
