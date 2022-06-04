@@ -1,7 +1,7 @@
 
 # Yaraslau Haurylavets
 
-[![No face found](/TrollFace.jpg "Click to see the foto")](link here)
+[![No face found](/TrollFace.jpg "Click to see foto")](link here)
 
 ### Future JS warrior
 
@@ -38,7 +38,7 @@ function strangeMath(n, k){
 *******************************
 Although I have no many projects, I'll fix it soon)
 Now there are two studing projects.  
-- ***[This CV](this.url)***
+- ***[This CV](https://yaraslauhaurylavets.github.io/trial/cv/)***
 - ***[Hello User](https://yaraslauhaurylavets.github.io/git_sandbox/)***
 **********************************
 Studied at ***[Git Basics](https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb)***                                     
