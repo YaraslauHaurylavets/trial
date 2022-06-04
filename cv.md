@@ -6,12 +6,13 @@
 ### Future JS warrior
 
 ************************************
-From: Belarus, Minsk            
-Contacts:                
+##### From: Belarus, Minsk            
+##### Contacts:                
 e-mail yaraslau.haurylavets@gmail.com                  
 Telegram @user_is_not_valid                 
 GitHub https://github.com/YaraslauHaurylavets                
-Discord @y1g1#7966                   
+Discord @y1g1#7966   
+                
 *********************************
 
 >My goal is to become a JavaScript Developer, improving my programming skills is main priority
