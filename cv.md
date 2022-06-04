@@ -44,7 +44,7 @@ function strangeMath(n, k){
 
 #### Projects
 Although I have no many projects, I'll fix it soon) Now there are two studing projects.                                                           
-- ***[This CV](https://yaraslauhaurylavets.github.io/trial/cv/)***
+- ***[This CV](https://yaraslauhaurylavets.github.io/trial/cv.html/)***
 - ***[Hello User](https://yaraslauhaurylavets.github.io/git_sandbox/)***
 
 **********************************
