@@ -1,13 +1,12 @@
 
 # Yaraslau Haurylavets
 
-[![No face found](/TrollFace.jpg "Click to see foto")](link here)
 
 ### Future JS warrior
 
 ************************************
-##### From: Belarus, Minsk            
-##### Contacts:                
+**From:** Belarus, Minsk            
+**Contacts:**                
 e-mail yaraslau.haurylavets@gmail.com                  
 Telegram @user_is_not_valid                 
 GitHub https://github.com/YaraslauHaurylavets                
@@ -21,13 +20,16 @@ sphere, and I want to grow in it. Previously, I worked as a service engineer for
 but now I want to get more creative and intellectual job.
 
 ***********************************
-Study these technologies:
+
+##### Study these technologies:
 * HTML
 * CSS
 * JavaScript
-* Git
+* Git                                                                           
+
 *****************************************
-As an example of my coding practice, this is the solution of the task on ***[Codewars](https://www.codewars.com/kata/604517d65b464d000d51381f)***:
+
+As an example of my coding practice, this is the solution of the task on ***[Codewars](https://www.codewars.com/kata/604517d65b464d000d51381f):***                 
 ```
 function strangeMath(n, k){
     let arr = Array(n+1).fill(0);
@@ -36,16 +38,26 @@ function strangeMath(n, k){
     return arr.indexOf(k);
 } 
 ```
+
 *******************************
-Although I have no many projects, I'll fix it soon)
+
+##### Projects
+Although I have no many projects, I'll fix it soon)                                                                          
 Now there are two studing projects.  
 - ***[This CV](https://yaraslauhaurylavets.github.io/trial/cv/)***
 - ***[Hello User](https://yaraslauhaurylavets.github.io/git_sandbox/)***
+
 **********************************
+
+#####Courses
 Studied at ***[Git Basics](https://learn.epam.com/detailsPage?id=16d7f2e7-cc80-4870-928e-400723f732bb)***                                     
-Currently studying at ***[JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)***                                
+Currently studying at ***[JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)***       
+                         
 *********************************
-English: listening and reading B1, speaking and writing A2 (haven't practiced for a long time, but I'm working on it)
+
+#####Languages
+**English**: listening and reading B1, speaking and writing A2 (haven't practiced for a long time, but I'm working on it)
+**Russian**: native
 
 
 
